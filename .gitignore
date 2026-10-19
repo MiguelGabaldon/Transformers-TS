@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Timestamped experiment artifacts are reproducible from saved configurations.
+experiments/*/results/

@@ -1,0 +1,6 @@
+numpy>=2.0
+torch>=2.0
+matplotlib>=3.8
+
+# Test dependency
+pytest>=8.0
